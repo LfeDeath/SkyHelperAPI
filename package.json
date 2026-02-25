@@ -24,6 +24,10 @@
         "prismarine-nbt": "^1.6.0",
         "skyhelper-networth": "^1.6.0",
         "util": "^0.12.4"
+
+        "engines": {
+  "node": "=16.7.0"
+}
     },
     
 }
